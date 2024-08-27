@@ -1,5 +1,5 @@
 
-# eCommerce Websit
+# eCommerce Website
 ## Overview
 
 This project is an eCommerce website built using HTML, CSS, and JavaScript. The website allows users to browse products, view product details, add items to their cart, and complete the checkout process. The design is responsive, ensuring a seamless experience across different devices.
@@ -58,10 +58,6 @@ ecommerce-website/
 - **CSS3**: Styling and layout (including Flexbox and Grid).
 - **JavaScript (ES6)**: Adding interactivity and dynamic content.
 
-## Live Demo
-
-You can view a live demo of the project [here](https://yourwebsite.com).
-
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are also appreciated.
@@ -69,11 +65,3 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
-
-## Contact
-
-For any inquiries or feedback, please reach out to me at your.email@example.com.
-
----
-
-You can adjust the paths, features, and descriptions to fit your project specifics. If you have more advanced features or additional files, be sure to include them in the README as well.
