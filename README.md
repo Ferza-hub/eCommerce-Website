@@ -1,7 +1,7 @@
 
 # eCommerce Website
 
-[LIVE DEMO]([https://e-commerce-website-two-tau.vercel.app/])
+[LIVE DEMO](https://e-commerce-website-two-tau.vercel.app/)
 
 ## Overview
 
